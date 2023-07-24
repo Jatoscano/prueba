@@ -18,7 +18,7 @@ public class PruebaApplication implements CommandLineRunner{
 
 		//Estes es un nuevo cambio de branch
 		
-		//me equivique de rama
+		//cambio de software 
 
 
 		// este es mi cambio att SC
